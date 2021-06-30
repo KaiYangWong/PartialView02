@@ -2,7 +2,7 @@
 
 
 ![picture1](https://user-images.githubusercontent.com/30917086/123895439-710c0d80-d992-11eb-963d-319abaeec965.png)
-當按下【版面二】的按鈕，不會有大版面屏幕
+當按下【版面二】的按鈕，不會有大版面屏幕，因為套用＿Layout02的版面。
 
 
 ![picture](https://user-images.githubusercontent.com/30917086/123895519-8a14be80-d992-11eb-90b1-75bac770f148.png)
